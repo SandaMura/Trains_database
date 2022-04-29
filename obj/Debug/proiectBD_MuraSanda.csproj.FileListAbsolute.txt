@@ -12,3 +12,5 @@ C:\Users\sanda\source\repos\proiectBD_MuraSanda\bin\Debug\bazaDeDate.mdf
 C:\Users\sanda\source\repos\proiectBD_MuraSanda\bin\Debug\bazaDeDate_log.ldf
 C:\Users\sanda\source\repos\proiectBD_MuraSanda\obj\Debug\proiectBD_MuraSanda.Form2_Stations.resources
 C:\Users\sanda\source\repos\proiectBD_MuraSanda\obj\Debug\proiectBD_MuraSanda.MainPage.resources
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\obj\Debug\proiectBD_MuraSanda.Form3_Rides.resources
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\obj\Debug\proiectBD_MuraSanda.Form4_Bookings.resources

@@ -80,6 +80,7 @@ namespace proiectBD_MuraSanda
             this.button5.TabIndex = 29;
             this.button5.Text = "Update the Station";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // textBox4
             // 
@@ -87,6 +88,7 @@ namespace proiectBD_MuraSanda
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(211, 20);
             this.textBox4.TabIndex = 28;
+            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // button4
             // 
@@ -96,6 +98,7 @@ namespace proiectBD_MuraSanda
             this.button4.TabIndex = 27;
             this.button4.Text = "Detete by [Name]";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // label4
             // 
@@ -114,6 +117,7 @@ namespace proiectBD_MuraSanda
             this.button3.TabIndex = 25;
             this.button3.Text = "Display all data";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // textBox3
             // 
@@ -130,6 +134,7 @@ namespace proiectBD_MuraSanda
             this.button2.TabIndex = 23;
             this.button2.Text = "Search by [Name]";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // dataGridView1
             // 

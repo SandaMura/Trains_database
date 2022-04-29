@@ -30,5 +30,19 @@ namespace proiectBD_MuraSanda
             Form2_Stations newForm = new Form2_Stations();
             newForm.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form3_Rides newForm = new Form3_Rides();
+            newForm.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form4_Bookings newForm = new Form4_Bookings();
+            newForm.Show();
+        }
     }
 }
