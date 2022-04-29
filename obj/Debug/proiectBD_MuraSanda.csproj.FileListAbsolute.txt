@@ -1,0 +1,14 @@
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\bin\Debug\proiectBD_MuraSanda.exe.config
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\bin\Debug\proiectBD_MuraSanda.exe
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\bin\Debug\proiectBD_MuraSanda.pdb
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\obj\Debug\proiectBD_MuraSanda.csproj.AssemblyReference.cache
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\obj\Debug\proiectBD_MuraSanda.Properties.Resources.resources
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\obj\Debug\proiectBD_MuraSanda.csproj.GenerateResource.cache
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\obj\Debug\proiectBD_MuraSanda.csproj.CoreCompileInputs.cache
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\obj\Debug\proiectBD_MuraSanda.exe
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\obj\Debug\proiectBD_MuraSanda.pdb
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\obj\Debug\proiectBD_MuraSanda.Form1.resources
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\bin\Debug\bazaDeDate.mdf
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\bin\Debug\bazaDeDate_log.ldf
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\obj\Debug\proiectBD_MuraSanda.Form2_Stations.resources
+C:\Users\sanda\source\repos\proiectBD_MuraSanda\obj\Debug\proiectBD_MuraSanda.MainPage.resources
